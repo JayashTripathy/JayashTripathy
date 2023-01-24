@@ -99,10 +99,10 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://icons8.com/icon/WNoJgbzDr3i2/express-js"
+      src="https://img.icons8.com/office/480/express-js.png"
       alt="express"
-      width="40"
-      height="40"
+      width="60"
+      height="60"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
