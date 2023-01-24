@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript, React js, Frontend development, MERN stack**
+ 
+- 🤝 I’m looking for **Internships**
+
 
 - 📫 How to reach me **jayashtripathy371@gmail.com**
 
@@ -18,10 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
-<a href="https://codepen.io/jayashtripathy" target="blank"><img align="center" src="https://www.nicepng.com/png/detail/128-1285659_codepen-icon-logo-png-transparent-codepen-logo-png.png" alt="jayashtripathy" height="40" width="40" /></a>
-
-  <a href="https://linkedin.com/in/jayash-tripathy-47a16b216" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png" alt="jayash-tripathy-47a16b216" height="40" width="40"/></a>
+<a href="https://linkedin.com/in/jayash-tripathy-47a16b216" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png" alt="jayash-tripathy-47a16b216" height="40" width="40"/></a>
+&nbsp; &nbsp;
 <a href="https://instagram.com/jayashtripathy/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" alt="jayashtripathy/" height="40" width="40" /></a>
+  &nbsp; &nbsp;
+<a href="https://codepen.io/jayashtripathy" target="blank"><img align="center" src="https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA" alt="jayashtripathy" height="30" /></a>
 </p>
 
 
