@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1](https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1)
 
 - ⚡ Fun fact **I'm a programmer with 12% body fat 😂💪**
-<img src="https://myotakuworld.com/wp-content/uploads/2020/09/Anime-Hackers-1-1280x680.png?ezimgfmt=rs:823x437/rscb8/ngcb8/notWebP" alt="" />
+<img src="" alt="" />
 
 
 <h3 align="left">Connect with me:</h3>
