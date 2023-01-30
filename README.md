@@ -1,3 +1,4 @@
+
 <h1 align="center">Hey 👋, I'm Jayash Tripathy</h1>
 <h3 align="center">A passionate & curious Web Developer from India</h3>
 
@@ -16,7 +17,7 @@
 - 📄 Know about my experiences [https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1](https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1)
 
 - ⚡ Fun fact **I'm a programmer with 12% body fat 😂💪**
-<img src="" alt="" />
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -148,8 +149,11 @@
   </a>
 </p>
 
-
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayashtripathy&show_icons=true&locale=en&layout=compact" alt="jayashtripathy" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayashtripathy&" alt="jayashtripathy" /></p>
+<p>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayashtripathy&" alt="jayashtripathy" />
+</p>
+ <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt=""  width="100%"/>
 
