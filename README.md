@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey 👋, I'm Jayash Tripathy</h1>
-<h3 align="center">A passionate & curious Web Developer from India</h3>
+<h3 align="center">Curious Web Developer from India</h3>
 
 
 - 🔭 I’m currently working on **HighOnCalories - modern recipe app**
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1](https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1)
 
-- ⚡ Fun fact **I'm a programmer with 12% body fat 😂💪**
+- ⚡ **Turning Caffine into code ☕**
 
 
 
