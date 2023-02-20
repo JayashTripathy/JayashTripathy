@@ -151,9 +151,9 @@
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayashtripathy&show_icons=true&locale=en&layout=compact" alt="jayashtripathy" /></p> -->
 
-<p>
+<!-- <p>
   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayashtripathy&" alt="jayashtripathy" />
-</p>
+</p> -->
  <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt=""  width="100%"/>
 
