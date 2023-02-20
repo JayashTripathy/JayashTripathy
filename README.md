@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jayashtripathy371@gmail.com**
 
-- 📄 Know about my experiences [https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1](https://www.figma.com/file/nTku6wol4pnNafKftVqfMH/Jayash-resume-2023?node-id=0%3A1&t=Z3kWV84tkSeQT5cq-1)
+- 📄 Know about my experiences [RESUME](https://www.figma.com/proto/nTku6wol4pnNafKftVqfMH/jayashResume?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
 - ⚡ **Turning Caffine into code ☕**
 
