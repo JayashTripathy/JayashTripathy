@@ -12,7 +12,7 @@
 - 🤝 I’m looking for **Internships**
 
 
-- 📫 How to reach me **jayashtripathy371@gmail.com**
+- 📫 How to reach me **contact.jayash@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://www.figma.com/proto/nTku6wol4pnNafKftVqfMH/jayashResume?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
 
