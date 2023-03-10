@@ -1,159 +1,23 @@
-
-<h1 align="center">Hey 👋, I'm Jayash Tripathy</h1>
-<h3 align="center">Curious Web Developer from India</h3>
-
-
-- 🔭 I’m currently working on **HighOnCalories - modern recipe app**
-
-- 🌱 I’m currently learning **Typescript**
-
-- 💬 Ask me about **Javascript, React js, Frontend development, MERN stack**
- 
-- 🤝 I’m looking for **Internships**
+# 💫 About Me:
+💛 I’m currently working at OpInHacks - www.opinhacks.co<br>✨ I’m looking to collaborate on Full Stack Web Projects<br>🤓 I’m currently learning TypeScript & Tailwind CSS<br><br>
 
 
-- 📫 How to reach me **contact.jayash@gmail.com**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jayashtripathy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jayash-tripathy/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/jayash_tripathy) 
 
-- 📄 Know about my experiences [RESUME](https://www.figma.com/proto/nTku6wol4pnNafKftVqfMH/jayashResume?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JayashTripathy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JayashTripathy&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayashTripathy&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ⚡ **Turning Caffine into code ☕**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JayashTripathy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/jayash-tripathy-47a16b216" target="blank"><img align="center" src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png" alt="jayash-tripathy-47a16b216" height="40" width="40"/></a>
-&nbsp; &nbsp;
-<a href="https://instagram.com/jayashtripathy/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-white-glyph.png" alt="jayashtripathy/" height="40" width="40" /></a>
-  &nbsp; &nbsp;
-<a href="https://codepen.io/jayashtripathy" target="blank"><img align="center" src="https://res.cloudinary.com/css-tricks/images/f_auto,q_auto/v1642454945/codepen-wordmark-display-inside-white@10x_163987fcdd/codepen-wordmark-display-inside-white@10x_163987fcdd.png?_i=AA" alt="jayashtripathy" height="30" /></a>
-</p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/jayash_tripathy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-      alt="heroku"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.adobe.com/in/products/illustrator.html"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      width="40"
-      height="40"
-    />
-  </a>
 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png"
-      alt="photoshop"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
-      alt="javascript"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"
-      alt="react"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.icons8.com/office/480/express-js.png"
-      alt="express"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mongodb_compass_macos_bigsur_icon_189933.png"
-      alt="mongodb"
-      width="60"
-      height="60"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"
-      alt="cplusplus"
-      width="50"
-      height="50"
-    />
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"
-      alt="html5"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"
-      alt="css3"
-      width="50"
-      height="50"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayashtripathy&show_icons=true&locale=en&layout=compact" alt="jayashtripathy" /></p> -->
-
-<!-- <p>
-  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayashtripathy&" alt="jayashtripathy" />
-</p> -->
- <img src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" alt=""  width="100%"/>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
