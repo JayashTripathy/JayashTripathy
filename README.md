@@ -1,5 +1,5 @@
 # 💫 About Me:
-💛 I’m currently working at OpInHacks - www.opinhacks.co<br>✨ I’m looking to collaborate on Full Stack Web Projects<br>🤓 I’m currently learning TypeScript & Tailwind CSS<br><br>
+💛 I’m currently working at OpInHacks - www.opinhacks.co<br>✨ I’m looking to collaborate on Full Stack Web Projects<br>🤓 I’m currently learning NextJS & Tailwind CSS<br><br>
 
 
 ## 🌐 Socials:
