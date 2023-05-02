@@ -1,8 +1,7 @@
 <img alt="jt" src="https://res.cloudinary.com/df0aad0ku/image/upload/v1683047590/github%20assets/banner_qrszaj.png"  >
 
-
-# 💫 About Me:
-💛 I’m currently working at OpInHacks - www.opinhacks.co<br>✨ I’m looking to collaborate on Full Stack Web Projects<br>🤓 I’m currently learning NextJS & Tailwind CSS<br><br>
+💻 building [jayash.space](https://www.jayash.space/)  
+💙 loving [nextjs](https://nextjs.org/), [react](https://react.dev/) and [tailwind](https://tailwindcss.com/)
 
 
 ## 🌐 Socials:
@@ -21,8 +20,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JayashTripathy&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/jayash_tripathy)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 
 
