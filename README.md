@@ -1,3 +1,6 @@
+<img alt="jt" src="https://res.cloudinary.com/df0aad0ku/image/upload/v1683047590/github%20assets/banner_qrszaj.png"  >
+
+
 # 💫 About Me:
 💛 I’m currently working at OpInHacks - www.opinhacks.co<br>✨ I’m looking to collaborate on Full Stack Web Projects<br>🤓 I’m currently learning NextJS & Tailwind CSS<br><br>
 
