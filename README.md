@@ -1,4 +1,4 @@
-<img alt="jt" src="https://res.cloudinary.com/df0aad0ku/image/upload/v1683047590/github%20assets/banner_qrszaj.png"  >
+<img alt="jt" src="https://res.cloudinary.com/jayash/image/upload/v1687111903/github%20assets/thumbnail.png"  >
 
 
 
